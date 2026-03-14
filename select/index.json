@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "INDETERMINATE UNIVERSE（ケムリクサ.ver）",
+  "base_artist": "りん（CV.小松未可子）、りつ（CV.清都ありさ）、りな（CV.鷲見友美ジェナ）",
+  "createdAt": "2026-03-14T13:54:42.715012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "INDETERMINATE UNIVERSE(ケムリクサ.ver)",
+      "artist": "りん(CV.小松未可子)、りつ(CV.清都ありさ)、りな(CV.鷲見友美ジェナ)",
+      "has_synced": true,
+      "path": "select/01_INDETERMINATE_UNIVERSE(ケムリクサ.ver)_りん(CV.小松未可子)、りつ(CV.清都ありさ)、りな(CV.鷲見友美ジェナ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "INDETERMINATE UNIVERSE (ケムリクサ.ver)",
+      "artist": "りん(CV. 小松未可子), りつ(CV. 清都ありさ), りな(CV. 鷲見友美ジェナ)",
+      "has_synced": true,
+      "path": "select/02_INDETERMINATE_UNIVERSE_(ケムリクサ.ver)_りん(CV._小松未可子),_りつ(CV._清都ありさ),_りな(CV._鷲見友美ジェナ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "INDETERMINATE UNIVERSE (ケムリクサ.ver)",
+      "artist": "ゆうゆ feat.ケムリクサ",
+      "has_synced": true,
+      "path": "select/03_INDETERMINATE_UNIVERSE_(ケムリクサ.ver)_ゆうゆ_feat.ケムリクサ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INDETERMINATE UNIVERSE (ケムリクサ.ver)",
+      "artist": "りん(小松未可子), りつ(清都ありさ), りな(鷲見友美ジェナ)",
+      "has_synced": false,
+      "path": "select/pl_01_INDETERMINATE_UNIVERSE_(ケムリクサ.ver)_りん(小松未可子),_りつ(清都ありさ),_りな(鷲見友美ジェナ).txt"
+    }
+  ]
+}
